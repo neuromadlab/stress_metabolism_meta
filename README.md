@@ -82,7 +82,7 @@ The script will automatically:
 
 ## Citation
 
-If you use this code or data, please cite the original publication.
+If you use this code or data, please cite the original publication. (https://doi.org/10.1016/j.ynstr.2025.100764)
 
 
 ## Contact
